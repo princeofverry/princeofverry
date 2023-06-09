@@ -5,7 +5,7 @@
 <h2>about me?</h2>
 <ul>
   <li><a href="[[https://www.w3schools.com/](https://www.linkedin.com/in/verry-kurniawan-956214247/)]">linkedIn</li>
-  <li><a href="[[https://www.w3schools.com/](https://www.linkedin.com/in/verry-kurniawan-956214247/](https://www.instagram.com/princeofverry/))"></li>
+  <li><a href="[[https://www.w3schools.com/](https://www.linkedin.com/in/verry-kurniawan-956214247/](https://www.instagram.com/princeofverry/))">instagram</li>
   <li>tbd</li>
 </ul>
   
