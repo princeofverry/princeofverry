@@ -4,8 +4,8 @@
 <p1>well there is my project, i hope you can get something from my project</p1>
 <h2>about me?</h2>
 <ul>
-  <li><a href="[[https://www.w3schools.com/](https://www.linkedin.com/in/verry-kurniawan-956214247/)]">linkedIn</li>
-  <li><a href="[[https://www.w3schools.com/](https://www.linkedin.com/in/verry-kurniawan-956214247/](https://www.instagram.com/princeofverry/))">instagram</li>
+  <li><a href="[https://www.linkedin.com/in/verry-kurniawan-956214247/]">linkedIn</li>
+  <li><a href="[https://www.instagram.com/princeofverry/]">instagram</li>
   <li>tbd</li>
 </ul>
   
