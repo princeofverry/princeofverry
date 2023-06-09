@@ -1,13 +1,38 @@
-<h1>What’s up?</h1>
-<hr>
 
-<p1>well there is my project, i hope you can get something from my project</p1>
-<h2>about me?</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/verry-kurniawan-956214247/">linkedIn</li>
-  <li><a href="https://www.instagram.com/princeofverry/">instagram</li>
-  <li>tbd</li>
-</ul>
+
+
+## 🚀 About Me
+well my name is verry and i am an ordinary boy
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/verry-kurniawan-956214247)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/verrpy)
+
+
+## Other Common Github Profile Sections
+<!-- 👩‍💻 I'm currently working on... -->
+
+🧠 I'm currently learning flutter
+
+<!-- 👯‍♀️ I'm looking to collaborate on... -->
+
+<!-- 🤔 I'm looking for help with... -->
+
+<!-- 💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns... -->
+
+<!-- ⚡️ Fun fact... -->
+
+
+## 🛠 Skills
+Java, HTML, CSS, C++
+
+
   
 
 
