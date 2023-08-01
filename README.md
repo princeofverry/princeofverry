@@ -30,7 +30,7 @@ well my name is verry and i am an ordinary boy
 
 
 ## 🛠 Skills
-Java, HTML, CSS, C++
+Javascript, ReactJs, CSS, Tailwind
 
 
   
