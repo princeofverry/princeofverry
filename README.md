@@ -14,7 +14,7 @@ well my name is verry and i am an ordinary boy
 ## Other Common Github Profile Sections
 <!-- 👩‍💻 I'm currently working on... -->
 
-🧠 I'm currently learning flutter
+🧠 I'm currently learning Next JS
 
 <!-- 👯‍♀️ I'm looking to collaborate on... -->
 
@@ -30,7 +30,7 @@ well my name is verry and i am an ordinary boy
 
 
 ## 🛠 Skills
-Javascript, ReactJs, CSS, Tailwind
+Javascript, ReactJs, CSS, Tailwind, Arduino, Java, Little bit python
 
 
   
