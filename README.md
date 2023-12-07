@@ -27,6 +27,7 @@ well my name is verry and i am an ordinary boy
 
 <!-- ⚡️ Fun fact... -->
 
+## Status
 <div align="center">
 
 <a href="https://github.com/princeofverry">
