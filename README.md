@@ -27,6 +27,18 @@ well my name is verry and i am an ordinary boy
 
 <!-- ⚡️ Fun fact... -->
 
+<div align="center">
+
+<a href="https://github.com/princeofverry">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gelaws-hub&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gelaws-hub&layout=compact&langs_count=8&theme=radical"/>
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gelaws-hub&theme=radical)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=princeofverry)
+</div>
+
 
 ## 🛠 Skills
 Javascript, ReactJs, CSS, Tailwind, Arduino, Java, Little bit python
