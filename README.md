@@ -13,7 +13,7 @@ well my name is verry and i am an ordinary boy
 ## Other Common Github Profile Sections
 <!-- 👩‍💻 I'm currently working on... -->
 
-🧠 I'm currently learning Next JS
+🧠 I'm currently learning machine learning
 
 <!-- 👯‍♀️ I'm looking to collaborate on... -->
 
