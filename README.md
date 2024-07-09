@@ -42,9 +42,9 @@ An innovative project utilizing Python and computer vision techniques to solve r
 
 ## 📫 How to Reach Me
 
-- **GitHub**: [github.com/yourusername](https://github.com/princeofverry)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/verrykurniawan)
-- **Twitter**: [twitter.com/yourusername](https://twitter.com/verrpy)
+- **GitHub**: [github.com/princeofverry](https://github.com/princeofverry)
+- **LinkedIn**: [linkedin.com/in/verrykurniawan](https://linkedin.com/in/verrykurniawan)
+- **Twitter**: [twitter.com/verrpy](https://twitter.com/verrpy)
 - **Email**: vexykrwn@gmail.com
 
 ## 📈 GitHub Stats
