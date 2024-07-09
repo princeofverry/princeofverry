@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and a tech ent
 
 ## 🚀 About Me
 
-# Hi there! 👋
-
 ```javascript
 const profile = {
   name: "Verry Kurniawan",
