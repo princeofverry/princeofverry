@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a tech ent
 
 ```javascript
 const profile = {
-  name: "Your Name",
+  name: "Verry Kurniawan",
   profession: "Software Developer",
   skills: ["JavaScript", "React.js", "Next.js", "TypeScript", "Python", "Computer Vision"],
   introduction: function() {
