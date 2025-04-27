@@ -18,7 +18,6 @@ console.log(profile.introduction());
 - **GitHub**: [github.com/princeofverry](https://github.com/princeofverry)
 - **LinkedIn**: [linkedin.com/in/verry-kurniawan](https://linkedin.com/in/verry-kurniawan-956214247/)
 - **Twitter**: [twitter.com/verrpy](https://twitter.com/verrpy)
-- **Email**: vexykrwn@gmail.com
 
 ## 📈 GitHub Stats
 
