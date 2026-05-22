@@ -1,0 +1,56 @@
+name: Daily Contributions
+
+on:
+  schedule:
+    # 9 pagi WIB
+    - cron: '0 2 * * *'
+
+    # 6 malam WIB
+    - cron: '0 11 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Commit Message
+        run: |
+          messages=(
+            "daily update"
+            "improve project"
+            "small fixes"
+            "refactor code"
+            "update notes"
+            "minor improvements"
+            "routine commit"
+            "cleanup project"
+            "enhance structure"
+            "progress update"
+          )
+
+          random_index=$((RANDOM % ${#messages[@]}))
+          echo "COMMIT_MESSAGE=${messages[$random_index]}" >> $GITHUB_ENV
+
+      - name: Update Activity File
+        run: |
+          echo "$(date)" >> activity.txt
+
+      - name: Commit Changes
+        run: |
+          git config user.name "princeofverry"
+          git config user.email "verryk49@gmail.com"
+
+          git add .
+          git commit -m "$COMMIT_MESSAGE" || echo "No changes"
+
+      - name: Push Changes
+        run: |
+          git push
